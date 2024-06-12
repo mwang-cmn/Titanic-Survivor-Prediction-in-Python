@@ -6,3 +6,4 @@ The data used in this project can be found on [Kaggle](https://www.kaggle.com/c/
 #Model Performance
 The Decision tree Classifier performed with an accuracy of 81%.
 
+Link to [Notebook](https://github.com/mwang-cmn/Titanic-Survivor-Prediction-in-Python/blob/main/Titanic_Disaster_Prediction_Survival_Rate.ipynb)
